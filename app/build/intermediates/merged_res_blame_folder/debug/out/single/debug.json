@@ -1,0 +1,238 @@
+[
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_rounded.xml.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\drawable\\bg_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_edit_text.xml.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\drawable-xhdpi\\edit_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_design_header.png.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\design_header.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_design_header.png.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\design_header.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_detail.xml.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_design_header.png.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\design_header.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\layout_login_tab.xml.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\layout\\login_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_favorite.xml.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\drawable\\ic_favorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_movie.xml.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\drawable\\ic_movie.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_button_bg.xml.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\drawable-xhdpi\\button_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_design_header.png.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\design_header.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_search.png.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\drawable-hdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_overlay.xml.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\drawable\\bg_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_design_header.png.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\design_header.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_favorite_film.xml.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\layout\\fragment_favorite_film.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_design_header.xml.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\design_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_search.xml.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\drawable\\bg_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\layout_list_item_trailer.xml.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\layout\\list_item_trailer.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\layout_signup_tab.xml.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\layout\\signup_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_favorite.xml.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\layout\\fragment_favorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\layout_list_item_film.xml.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\layout\\list_item_film.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_live_tv.xml.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\drawable\\ic_live_tv.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_share.xml.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\drawable\\ic_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\layout_list_item_film_horizontal.xml.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\layout\\list_item_film_horizontal.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_design_header.png.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\design_header.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_google.png.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\drawable-xhdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\drawable_tab_tv_color.xml.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\drawable\\tab_tv_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_search.png.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\drawable-mdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\drawable-xhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\layout_toolbar_main.xml.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\layout\\toolbar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_insta.png.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\drawable-xhdpi\\insta.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_image.xml.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\drawable\\ic_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_bg.png.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\drawable-xhdpi\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_ic_search.xml.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\drawable-anydpi\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_vie_bg.xml.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\drawable-xhdpi\\vie_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_fond.jpg.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\drawable-xhdpi\\fond.jpg"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\drawable-xxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\drawable_tab_movie_color.xml.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\drawable\\tab_movie_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_film.xml.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\layout\\fragment_film.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_favorite_border.xml.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\drawable\\ic_favorite_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\drawable_tab_fav_color.xml.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\drawable\\tab_fav_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_notification.png.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_fb.png.flat",
+        "source": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\src\\main\\res\\drawable-xhdpi\\fb.png"
+    }
+]

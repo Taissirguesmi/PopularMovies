@@ -1,0 +1,62 @@
+com/movies/BuildConfig.java
+ com.movies.BuildConfig
+com/azhar/moviedb/activities/MainActivity.java
+ com.azhar.moviedb.activities.MainActivity
+ com.azhar.moviedb.activities.MainActivity$1
+com/azhar/moviedb/realm/RealmHelper.java
+ com.azhar.moviedb.realm.RealmHelper
+com/azhar/moviedb/loginAdapter.java
+ com.azhar.moviedb.loginAdapter
+com/azhar/moviedb/adapter/MovieAdapter.java
+ com.azhar.moviedb.adapter.MovieAdapter
+ com.azhar.moviedb.adapter.MovieAdapter$1
+ com.azhar.moviedb.adapter.MovieAdapter$ViewHolder
+ com.azhar.moviedb.adapter.MovieAdapter$onSelectData
+com/azhar/moviedb/fragment/FragmentMovie.java
+ com.azhar.moviedb.fragment.FragmentMovie
+ com.azhar.moviedb.fragment.FragmentMovie$1
+ com.azhar.moviedb.fragment.FragmentMovie$2
+ com.azhar.moviedb.fragment.FragmentMovie$3
+ com.azhar.moviedb.fragment.FragmentMovie$4
+com/azhar/moviedb/adapter/TrailerAdapter.java
+ com.azhar.moviedb.adapter.TrailerAdapter
+ com.azhar.moviedb.adapter.TrailerAdapter$1
+ com.azhar.moviedb.adapter.TrailerAdapter$ViewHolder
+com/azhar/moviedb/activities/DetailMovieActivity.java
+ com.azhar.moviedb.activities.DetailMovieActivity
+ com.azhar.moviedb.activities.DetailMovieActivity$1
+ com.azhar.moviedb.activities.DetailMovieActivity$2
+ com.azhar.moviedb.activities.DetailMovieActivity$3
+com/azhar/moviedb/loginActivity.java
+ com.azhar.moviedb.loginActivity
+ com.azhar.moviedb.loginActivity$1
+com/azhar/moviedb/User.java
+ com.azhar.moviedb.User
+com/azhar/moviedb/login_tab.java
+ com.azhar.moviedb.login_tab
+ com.azhar.moviedb.login_tab$1
+ com.azhar.moviedb.login_tab$2
+com/azhar/moviedb/fragment/FragmentFavoriteMovie.java
+ com.azhar.moviedb.fragment.FragmentFavoriteMovie
+com/azhar/moviedb/utils/BottomBarBehavior.java
+ com.azhar.moviedb.utils.BottomBarBehavior
+com/azhar/moviedb/networking/ApiEndpoint.java
+ com.azhar.moviedb.networking.ApiEndpoint
+com/azhar/moviedb/adapter/MovieHorizontalAdapter.java
+ com.azhar.moviedb.adapter.MovieHorizontalAdapter
+ com.azhar.moviedb.adapter.MovieHorizontalAdapter$1
+ com.azhar.moviedb.adapter.MovieHorizontalAdapter$ViewHolder
+ com.azhar.moviedb.adapter.MovieHorizontalAdapter$onSelectData
+com/azhar/moviedb/fragment/FragmentFavorite.java
+ com.azhar.moviedb.fragment.FragmentFavorite
+com/azhar/moviedb/model/ModelMovie.java
+ com.azhar.moviedb.model.ModelMovie
+com/azhar/moviedb/adapter/ViewPageAdapter.java
+ com.azhar.moviedb.adapter.ViewPageAdapter
+com/azhar/moviedb/signup_tab.java
+ com.azhar.moviedb.signup_tab
+ com.azhar.moviedb.signup_tab$1
+ com.azhar.moviedb.signup_tab$2
+ com.azhar.moviedb.signup_tab$2$1
+com/azhar/moviedb/model/ModelTrailer.java
+ com.azhar.moviedb.model.ModelTrailer
