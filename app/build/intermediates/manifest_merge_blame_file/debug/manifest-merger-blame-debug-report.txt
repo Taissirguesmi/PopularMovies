@@ -24,7 +24,7 @@
 14-->[io.realm:realm-android-library-object-server:5.1.0] C:\Users\asus\.gradle\caches\transforms-3\a932ddff8cb65abee63a943d2c568cb1\transformed\jetified-realm-android-library-object-server-5.1.0\AndroidManifest.xml:10:22-76
 15
 16    <application
-16-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:9:5-35:19
+16-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:9:5-36:19
 17        android:allowBackup="true"
 17-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:10:9-35
 18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -47,30 +47,30 @@
 27-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:17:9-85
 27-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:17:19-82
 28        <activity
-28-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:18:9-21:20
+28-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:18:9-26:20
 29            android:name="com.azhar.moviedb.loginActivity"
 29-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:18:19-65
 30            android:exported="true" >
 30-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:19:13-36
-31        </activity>
-32        <activity
-32-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:22:9-31:20
-33            android:name="com.azhar.moviedb.activities.MainActivity"
-33-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:23:13-69
-34            android:configChanges="keyboardHidden|orientation|screenSize"
-34-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:24:13-74
-35            android:windowSoftInputMode="adjustPan" >
-35-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:25:13-52
-36            <intent-filter>
-36-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:26:13-30:29
-37                <action android:name="android.intent.action.MAIN" />
-37-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:27:17-69
-37-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:27:25-66
-38
-39                <category android:name="android.intent.category.LAUNCHER" />
-39-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:29:17-77
-39-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:29:27-74
-40            </intent-filter>
+31            <intent-filter>
+31-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:20:13-24:29
+32                <action android:name="android.intent.action.MAIN" />
+32-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:21:17-69
+32-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:21:25-66
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+34-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:23:17-77
+34-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:23:27-74
+35            </intent-filter>
+36        </activity>
+37        <activity
+37-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:27:9-32:20
+38            android:name="com.azhar.moviedb.activities.MainActivity"
+38-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:28:13-69
+39            android:configChanges="keyboardHidden|orientation|screenSize"
+39-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:29:13-74
+40            android:windowSoftInputMode="adjustPan" >
+40-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:30:13-52
 41        </activity>
 42        <activity
 42-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\asus\.gradle\caches\transforms-3\d56691f35aaf960329f1a5475799604d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:27:9-44:20
