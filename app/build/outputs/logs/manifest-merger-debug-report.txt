@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:2:1-37:12
-INJECTED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:2:1-37:12
-INJECTED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:2:1-37:12
-INJECTED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:2:1-37:12
+ADDED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:2:1-37:12
 MERGED from [io.realm:realm-android-library-object-server:5.1.0] C:\Users\asus\.gradle\caches\transforms-3\a932ddff8cb65abee63a943d2c568cb1\transformed\jetified-realm-android-library-object-server-5.1.0\AndroidManifest.xml:2:1-13:12
 MERGED from [com.ramotion.cardslider:card-slider:0.3.1] C:\Users\asus\.gradle\caches\transforms-3\6f10c971045feaea75b3257d876b3baa\transformed\jetified-card-slider-0.3.1\AndroidManifest.xml:2:1-17:12
 MERGED from [com.google.android.material:material:1.2.0] C:\Users\asus\.gradle\caches\transforms-3\1b2137ebf85a8fc0b90ec0c6b8a02519\transformed\material-1.2.0\AndroidManifest.xml:17:1-24:12
@@ -69,25 +69,25 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\asus\.gradle\cac
 MERGED from [androidx.print:print:1.0.0] C:\Users\asus\.gradle\caches\transforms-3\e0170684b7b113abc7772b353640d4df\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\asus\.gradle\caches\transforms-3\7bf0f9fb94f0c25f223139c34d75c196\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\asus\.gradle\caches\transforms-3\89dde2a6cb70c9fa9ff4e0b979c704ee\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:2:1-37:12
-INJECTED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:2:1-37:12
-INJECTED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:2:1-37:12
 	package
-		ADDED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:3:5-25
-		INJECTED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:3:5-25
+		INJECTED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:2:1-37:12
-		INJECTED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:2:1-37:12
-		INJECTED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:5:5-67
+ADDED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:5:5-67
 MERGED from [io.realm:realm-android-library-object-server:5.1.0] C:\Users\asus\.gradle\caches\transforms-3\a932ddff8cb65abee63a943d2c568cb1\transformed\jetified-realm-android-library-object-server-5.1.0\AndroidManifest.xml:11:5-67
 MERGED from [io.realm:realm-android-library-object-server:5.1.0] C:\Users\asus\.gradle\caches\transforms-3\a932ddff8cb65abee63a943d2c568cb1\transformed\jetified-realm-android-library-object-server-5.1.0\AndroidManifest.xml:11:5-67
 MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\asus\.gradle\caches\transforms-3\d56691f35aaf960329f1a5475799604d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:23:5-67
@@ -95,17 +95,17 @@ MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\asus\.gradle\cac
 MERGED from [com.google.firebase:firebase-database:20.0.3] C:\Users\asus\.gradle\caches\transforms-3\81cfcd70c1beaad32fbb42380b23829f\transformed\jetified-firebase-database-20.0.3\AndroidManifest.xml:26:5-67
 MERGED from [com.google.firebase:firebase-database:20.0.3] C:\Users\asus\.gradle\caches\transforms-3\81cfcd70c1beaad32fbb42380b23829f\transformed\jetified-firebase-database-20.0.3\AndroidManifest.xml:26:5-67
 	android:name
-		ADDED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:5:22-64
 uses-permission#android.permission.WAKE_LOCK
-ADDED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:6:5-68
+ADDED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:6:5-68
 	android:name
-		ADDED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:6:22-65
+		ADDED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:6:22-65
 uses-permission#android.permission.VIBRATE
-ADDED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:7:5-66
+ADDED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:7:5-66
 	android:name
-		ADDED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:7:22-63
+		ADDED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:7:22-63
 application
-ADDED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:9:5-35:19
+ADDED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:9:5-35:19
 MERGED from [com.ramotion.cardslider:card-slider:0.3.1] C:\Users\asus\.gradle\caches\transforms-3\6f10c971045feaea75b3257d876b3baa\transformed\jetified-card-slider-0.3.1\AndroidManifest.xml:11:5-15:19
 MERGED from [com.ramotion.cardslider:card-slider:0.3.1] C:\Users\asus\.gradle\caches\transforms-3\6f10c971045feaea75b3257d876b3baa\transformed\jetified-card-slider-0.3.1\AndroidManifest.xml:11:5-15:19
 MERGED from [com.google.android.material:material:1.2.0] C:\Users\asus\.gradle\caches\transforms-3\1b2137ebf85a8fc0b90ec0c6b8a02519\transformed\material-1.2.0\AndroidManifest.xml:22:5-20
@@ -145,51 +145,51 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\as
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.3.0] C:\Users\asus\.gradle\caches\transforms-3\e3226db965356fac0a852e547406ad3b\transformed\core-1.3.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:14:9-35
+		ADDED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:14:9-35
 	android:label
-		ADDED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:12:9-41
+		ADDED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:12:9-41
 	android:roundIcon
-		ADDED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:13:9-54
+		ADDED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:13:9-54
 	android:icon
-		ADDED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:11:9-43
+		ADDED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:11:9-43
 	android:allowBackup
-		ADDED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:10:9-35
 	android:theme
-		ADDED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:15:9-40
+		ADDED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:15:9-40
 	android:usesCleartextTraffic
-		ADDED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:16:9-44
+		ADDED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:16:9-44
 activity#com.azhar.moviedb.activities.DetailMovieActivity
-ADDED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:17:9-85
+ADDED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:17:9-85
 	android:name
-		ADDED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:17:19-82
+		ADDED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:17:19-82
 activity#com.azhar.moviedb.loginActivity
-ADDED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:18:9-25:20
+ADDED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:18:9-21:20
 	android:exported
-		ADDED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:19:13-36
+		ADDED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:19:13-36
 	android:name
-		ADDED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:18:19-65
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:20:13-24:29
-action#android.intent.action.MAIN
-ADDED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:21:17-69
-	android:name
-		ADDED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:21:25-66
-category#android.intent.category.LAUNCHER
-ADDED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:23:17-77
-	android:name
-		ADDED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:23:27-74
+		ADDED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:18:19-65
 activity#com.azhar.moviedb.activities.MainActivity
-ADDED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:26:9-31:20
+ADDED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:22:9-31:20
 	android:windowSoftInputMode
-		ADDED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:29:13-52
+		ADDED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:25:13-52
 	android:configChanges
-		ADDED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:28:13-74
+		ADDED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:24:13-74
 	android:name
-		ADDED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:27:13-69
+		ADDED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:23:13-69
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:29:27-74
 uses-sdk
-INJECTED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml
 MERGED from [io.realm:realm-android-library-object-server:5.1.0] C:\Users\asus\.gradle\caches\transforms-3\a932ddff8cb65abee63a943d2c568cb1\transformed\jetified-realm-android-library-object-server-5.1.0\AndroidManifest.xml:6:5-8:41
 MERGED from [io.realm:realm-android-library-object-server:5.1.0] C:\Users\asus\.gradle\caches\transforms-3\a932ddff8cb65abee63a943d2c568cb1\transformed\jetified-realm-android-library-object-server-5.1.0\AndroidManifest.xml:6:5-8:41
 MERGED from [com.ramotion.cardslider:card-slider:0.3.1] C:\Users\asus\.gradle\caches\transforms-3\6f10c971045feaea75b3257d876b3baa\transformed\jetified-card-slider-0.3.1\AndroidManifest.xml:7:5-9:41
@@ -320,16 +320,16 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\asus\.gradle\cac
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\asus\.gradle\caches\transforms-3\7bf0f9fb94f0c25f223139c34d75c196\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\asus\.gradle\caches\transforms-3\89dde2a6cb70c9fa9ff4e0b979c704ee\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\asus\.gradle\caches\transforms-3\89dde2a6cb70c9fa9ff4e0b979c704ee\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [io.realm:realm-android-library-object-server:5.1.0] C:\Users\asus\.gradle\caches\transforms-3\a932ddff8cb65abee63a943d2c568cb1\transformed\jetified-realm-android-library-object-server-5.1.0\AndroidManifest.xml:10:5-79
 MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\asus\.gradle\caches\transforms-3\d56691f35aaf960329f1a5475799604d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:24:5-79

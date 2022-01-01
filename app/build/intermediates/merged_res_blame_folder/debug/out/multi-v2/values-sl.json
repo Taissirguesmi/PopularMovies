@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\asus\\AndroidStudioProjects\\TheMovieDB-master\\Movie Catalogue\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sl\\values-sl.xml",
+            "outputFile": "C:\\Users\\asus\\AndroidStudioProjects\\Popular movies\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sl\\values-sl.xml",
             "map": [
                 {
                     "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-3\\e3226db965356fac0a852e547406ad3b\\transformed\\core-1.3.0\\res\\values-sl\\values-sl.xml",

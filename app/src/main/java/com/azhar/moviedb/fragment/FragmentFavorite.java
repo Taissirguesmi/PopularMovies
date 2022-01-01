@@ -28,8 +28,6 @@ public class FragmentFavorite extends Fragment {
         tabLayout.setupWithViewPager(viewPager);
 
         (tabLayout.getTabAt(0)).setText("Movie");
-
-
         return rootView;
     }
 

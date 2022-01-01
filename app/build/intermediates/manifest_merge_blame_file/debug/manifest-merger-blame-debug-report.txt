@@ -6,71 +6,71 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml
+8-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="29" />
-9-->C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml
+9-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:5:5-67
-11-->C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:5:22-64
+11-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:5:22-64
 12    <uses-permission android:name="android.permission.WAKE_LOCK" />
-12-->C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:6:5-68
-12-->C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:6:22-65
+12-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:6:5-68
+12-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:6:22-65
 13    <uses-permission android:name="android.permission.VIBRATE" />
-13-->C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:7:5-66
-13-->C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:7:22-63
+13-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:7:5-66
+13-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:7:22-63
 14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 14-->[io.realm:realm-android-library-object-server:5.1.0] C:\Users\asus\.gradle\caches\transforms-3\a932ddff8cb65abee63a943d2c568cb1\transformed\jetified-realm-android-library-object-server-5.1.0\AndroidManifest.xml:10:5-79
 14-->[io.realm:realm-android-library-object-server:5.1.0] C:\Users\asus\.gradle\caches\transforms-3\a932ddff8cb65abee63a943d2c568cb1\transformed\jetified-realm-android-library-object-server-5.1.0\AndroidManifest.xml:10:22-76
 15
 16    <application
-16-->C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:9:5-35:19
+16-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:9:5-35:19
 17        android:allowBackup="true"
-17-->C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:10:9-35
+17-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:10:9-35
 18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 18-->[androidx.core:core:1.3.0] C:\Users\asus\.gradle\caches\transforms-3\e3226db965356fac0a852e547406ad3b\transformed\core-1.3.0\AndroidManifest.xml:24:18-86
 19        android:debuggable="true"
 20        android:icon="@mipmap/ic_launcher"
-20-->C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:11:9-43
+20-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:11:9-43
 21        android:label="@string/app_name"
-21-->C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:12:9-41
+21-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:12:9-41
 22        android:roundIcon="@mipmap/ic_launcher_round"
-22-->C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:13:9-54
+22-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:13:9-54
 23        android:supportsRtl="true"
-23-->C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:14:9-35
+23-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:14:9-35
 24        android:testOnly="true"
 25        android:theme="@style/AppTheme"
-25-->C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:15:9-40
+25-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:15:9-40
 26        android:usesCleartextTraffic="true" >
-26-->C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:16:9-44
+26-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:16:9-44
 27        <activity android:name="com.azhar.moviedb.activities.DetailMovieActivity" />
-27-->C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:17:9-85
-27-->C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:17:19-82
+27-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:17:9-85
+27-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:17:19-82
 28        <activity
-28-->C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:18:9-25:20
+28-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:18:9-21:20
 29            android:name="com.azhar.moviedb.loginActivity"
-29-->C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:18:19-65
+29-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:18:19-65
 30            android:exported="true" >
-30-->C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:19:13-36
-31            <intent-filter>
-31-->C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:20:13-24:29
-32                <action android:name="android.intent.action.MAIN" />
-32-->C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:21:17-69
-32-->C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:21:25-66
-33
-34                <category android:name="android.intent.category.LAUNCHER" />
-34-->C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:23:17-77
-34-->C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:23:27-74
-35            </intent-filter>
-36        </activity>
-37        <activity
-37-->C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:26:9-31:20
-38            android:name="com.azhar.moviedb.activities.MainActivity"
-38-->C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:27:13-69
-39            android:configChanges="keyboardHidden|orientation|screenSize"
-39-->C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:28:13-74
-40            android:windowSoftInputMode="adjustPan" >
-40-->C:\Users\asus\AndroidStudioProjects\TheMovieDB-master\Movie Catalogue\app\src\main\AndroidManifest.xml:29:13-52
+30-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:19:13-36
+31        </activity>
+32        <activity
+32-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:22:9-31:20
+33            android:name="com.azhar.moviedb.activities.MainActivity"
+33-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:23:13-69
+34            android:configChanges="keyboardHidden|orientation|screenSize"
+34-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:24:13-74
+35            android:windowSoftInputMode="adjustPan" >
+35-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:25:13-52
+36            <intent-filter>
+36-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:26:13-30:29
+37                <action android:name="android.intent.action.MAIN" />
+37-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:27:17-69
+37-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:27:25-66
+38
+39                <category android:name="android.intent.category.LAUNCHER" />
+39-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:29:17-77
+39-->C:\Users\asus\AndroidStudioProjects\Popular movies\app\src\main\AndroidManifest.xml:29:27-74
+40            </intent-filter>
 41        </activity>
 42        <activity
 42-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\asus\.gradle\caches\transforms-3\d56691f35aaf960329f1a5475799604d\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:27:9-44:20

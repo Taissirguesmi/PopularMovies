@@ -3,6 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Popular movies/app/src/main/res/layout/activity_detail.xml" value="0.1" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Popular movies/app/src/main/res/layout/activity_login.xml" value="0.15625" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Popular movies/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Popular movies/app/src/main/res/layout/fragment_favorite.xml" value="0.15625" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Popular movies/app/src/main/res/layout/fragment_favorite_film.xml" value="0.15625" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Popular movies/app/src/main/res/layout/fragment_film.xml" value="0.15625" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Popular movies/app/src/main/res/layout/list_item_film.xml" value="0.15625" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Popular movies/app/src/main/res/layout/list_item_film_horizontal.xml" value="0.15625" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Popular movies/app/src/main/res/layout/list_item_trailer.xml" value="0.15625" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Popular movies/app/src/main/res/layout/login_tab.xml" value="0.15625" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Popular movies/app/src/main/res/layout/signup_tab.xml" value="0.15625" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Popular movies/app/src/main/res/layout/toolbar_main.xml" value="0.15625" />
         <entry key="..\:/Users/asus/AndroidStudioProjects/TheMovieDB-master/Movie Catalogue/app/src/main/res/drawable-anydpi/ic_search.xml" value="0.10885416666666667" />
         <entry key="..\:/Users/asus/AndroidStudioProjects/TheMovieDB-master/Movie Catalogue/app/src/main/res/drawable-xhdpi/button_bg.xml" value="0.1" />
         <entry key="..\:/Users/asus/AndroidStudioProjects/TheMovieDB-master/Movie Catalogue/app/src/main/res/drawable-xhdpi/vie_bg.xml" value="0.1" />
